@@ -16,7 +16,7 @@ setup(
     author_email='ew2789@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/ambition-study/ambition-pharmacy',
+    url='https://github.com/ambition-trail/ambition-pharmacy',
     license='GPL license, see LICENSE',
     description='ambition protocol-specific pharmacy configurations',
     long_description=README,
