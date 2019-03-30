@@ -1,0 +1,4 @@
+[run]
+include = ambition_pharmacy/*
+omit = ambition_pharmacy/tests/*
+branch = 1
