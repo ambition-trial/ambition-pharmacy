@@ -31,6 +31,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         'django.contrib.messages',
         'django.contrib.staticfiles',
         'django.contrib.sites',
+        "edc_sites.apps.AppConfig",
         'ambition_pharmacy.apps.AppConfig',
     ],
     add_dashboard_middleware=True,
